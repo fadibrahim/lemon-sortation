@@ -9,5 +9,7 @@ parts :
   - Numpy
   - Serial
   - CV2
-  - Arduino
+  - Arduino Uno
+  - Arduino IDE
+  - Python Software (Pycharm, VSCode, etc.)
   - USB Webcam 
